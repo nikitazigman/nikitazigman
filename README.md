@@ -1,7 +1,3 @@
-# Hi there! 👋 I'm Nikita Smirnov 
-
-Software Developer | Traveller | Husband
-
 ## 💼 Professional Background
 
 - 🐍 Python | ⚙️ Former C/C++ Firmware Developer
