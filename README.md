@@ -1,14 +1,11 @@
 ## 💼 Professional Background
 
 - 🐍 Python | ⚙️ Former C/C++ Firmware Developer
-- 🛠️ Daily Tools: Django, DRF, FastAPI, Celery, Pytest, SQLAlchemy, Docker, SQL, Redis, RabbitMQ
+- 🛠️ Daily Tools: Django, DRF, FastAPI, Celery, Pytest, SQLAlchemy, Docker, SQL, Redis, RabbitMQ, SQS, Kafka, Terraform, AWS
 
 ## 🚀 Open Source Projects
 
-1. [Calypte - OTA-Update SaaS Platform](https://github.com/OTA-Updates/backend)
-   - Streamlining microcontroller OTA-Updates with DevOps practices.
-
-2. [Beaver - LeetCode and MonkeyType Combo](https://github.com/nikitazigman/beaver)
+1. [Beaver - LeetCode and MonkeyType Combo](https://github.com/nikitazigman/beaver)
    - Addressing LeetCode challenges and improving code-writing speed.
 
 ## 📫 Connect with Me
