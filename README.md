@@ -1,16 +1,15 @@
-## 💼 Professional Background
+Hiya, I’m Nikita: software developer, husband, and traveller.
 
-- 🐍 Python | ⚙️ Former C/C++ Firmware Developer
-- 🛠️ Daily Tools: Django, DRF, FastAPI, Celery, Pytest, SQLAlchemy, Docker, SQL, Redis, RabbitMQ, SQS, Kafka, Terraform, AWS
+These days, I’m mainly into database internals, fancy optimisations, and distributed systems... oh, and TUIs, of course
 
-## 🚀 Open Source Projects
-
+## Some Projects I am currently working on
 1. [Beaver - LeetCode and MonkeyType Combo](https://github.com/nikitazigman/beaver)
-   - Addressing LeetCode challenges and improving code-writing speed.
+   - A terminal UI addressing LeetCode challenges and improving code-writing speed.
+2. [Badger - Low-level SQLite file format visualizer](https://github.com/nikitazigman/badger)
+   - A terminal UI for exploring SQLite database files at the byte and page level.
 
-## 📫 Connect with Me
+## Connect with Me
 
 - LinkedIn: [Nikita Smirnov](https://www.linkedin.com/in/nikita-smirnov-20897623b/)
 - Email: [zigman.nikita@gmail.com](mailto:zigman.nikita@gmail.com)
-
-⭐ Check out my repositories, and contributions are always welcome!
+- If you’re based in London, I’m always happy to grab a coffee and chat about software
