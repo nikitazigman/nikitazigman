@@ -1,4 +1,4 @@
-Hiya, I’m Nikita: software developer, husband, and traveller.
+Hiya!
 
 These days, I’m mainly into database internals, fancy optimisations, and distributed systems... oh, and TUIs, of course
 
